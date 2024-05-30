@@ -1,17 +1,20 @@
-## Hi there 👋
-I will fill this up in a bit ⏳
+![rubber-ducky-doily-bkg-edited](https://github.com/Marija-Kov/marija-kov/assets/96353043/f41fcb9f-a18a-41f2-93cb-5e4473bae23a)
 
-<!--
-**Marija-Kov/marija-kov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! I'm Marija and here live the things I code.
 
-Here are some ideas to get you started:
+I'm an artist turned software developer. That boils down to maker turned maker which isn't a big turn after all. 
+<br>
+I like to think of software as artwork that you don't have to worry about fitting in a vehicle.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Technologies
+
+☕ JavaScript / TypeScript
+💠 Node.js / Express.js
+🖥️ React / Redux / CSS / SASS / HTML
+🗄️ PostgreSQL / MongoDB
+🧪 Jest / Mocha
+🐙 Git
+
+<br>
+Feel free to contact me if you want to hire me, tell me to get out of the industry or anything in between.
