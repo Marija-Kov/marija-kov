@@ -9,12 +9,12 @@ I like to think of software as artwork that you don't have to worry about fittin
 
 ### Skills and Technologies
 
-☕ JavaScript / TypeScript
-💠 Node.js / Express.js
-🖥️ React / Redux / CSS / SASS / HTML
-🗄️ PostgreSQL / MongoDB
-🧪 Jest / Mocha
-🐙 Git
+☕  JavaScript / TypeScript <br>
+💠  Node.js / Express.js <br>
+🖥️  React / Redux / CSS / SASS / HTML <br>
+🗄️  PostgreSQL / MongoDB <br>
+🧪  Jest / Mocha <br>
+🐙  Git <br>
 
 <br>
 Feel free to contact me if you want to hire me, tell me to get out of the industry or anything in between.
